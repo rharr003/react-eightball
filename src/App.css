@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  align-items: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .App-logo {
@@ -36,3 +40,14 @@
     transform: rotate(360deg);
   }
 }
+
+
+.EightBall {
+  height: 600px;
+  width: 600px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
